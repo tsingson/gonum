@@ -8,7 +8,7 @@ package mat
 
 import (
 	"github.com/tsingson/gonum/blas/blas64"
-	"gonum.org/v1/netlib/blas/netlib"
+	"github.com/tsingson/gonum/netlib/blas/netlib"
 )
 
 func init() {

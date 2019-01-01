@@ -1,4 +1,4 @@
-module gonum.org/v1/gonum
+module github.com/tsingson/gonum
 
 require (
 	golang.org/x/exp v0.0.0-20180321215751-8460e604b9de
