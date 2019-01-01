@@ -15,7 +15,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"gonum.org/v1/gonum/graph/formats/dot"
+	"github.com/tsingson/gonum/graph/formats/dot"
 )
 
 func TestParseFile(t *testing.T) {

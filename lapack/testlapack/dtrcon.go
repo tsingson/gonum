@@ -10,9 +10,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/floats"
+	"github.com/tsingson/gonum/lapack"
 )
 
 type Dtrconer interface {

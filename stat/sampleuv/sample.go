@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/stat/distuv"
+	"github.com/tsingson/gonum/stat/distuv"
 )
 
 var (

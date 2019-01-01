@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strconv"
 
-	"gonum.org/v1/gonum/internal/asm/f64"
+	"github.com/tsingson/gonum/internal/asm/f64"
 )
 
 // Add adds, element-wise, the elements of s and dst, and stores in dst.

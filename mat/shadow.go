@@ -5,7 +5,7 @@
 package mat
 
 import (
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/tsingson/gonum/blas/blas64"
 )
 
 const (

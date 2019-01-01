@@ -10,9 +10,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/mathext"
-	"gonum.org/v1/gonum/stat/distuv"
+	"github.com/tsingson/gonum/mat"
+	"github.com/tsingson/gonum/mathext"
+	"github.com/tsingson/gonum/stat/distuv"
 )
 
 // Wishart is a distribution over d×d positive symmetric definite matrices. It

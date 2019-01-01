@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/tsingson/gonum/blas/blas64"
 )
 
 type Dlapmter interface {

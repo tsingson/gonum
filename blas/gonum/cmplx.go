@@ -4,7 +4,7 @@
 
 package gonum
 
-import "gonum.org/v1/gonum/blas"
+import "github.com/tsingson/gonum/blas"
 
 var (
 	_ blas.Complex64  = Implementation{}

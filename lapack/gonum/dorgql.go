@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/lapack"
 )
 
 // Dorgql generates the m×n matrix Q with orthonormal columns defined as the

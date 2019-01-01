@@ -9,7 +9,7 @@ import (
 	"math/cmplx"
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/tsingson/gonum/blas"
 )
 
 // throwPanic will throw unexpected panics if true, or will just report them as errors if false

@@ -7,8 +7,8 @@ package stat_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/integrate"
-	"gonum.org/v1/gonum/stat"
+	"github.com/tsingson/gonum/integrate"
+	"github.com/tsingson/gonum/stat"
 )
 
 func ExampleROC_weighted() {

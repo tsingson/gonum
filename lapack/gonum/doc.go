@@ -11,7 +11,7 @@
 // for more license information.
 //
 // Slice function arguments frequently represent vectors and matrices. The data
-// layout is identical to that found in https://godoc.org/gonum.org/v1/gonum/blas/gonum.
+// layout is identical to that found in https://godoc.org/github.com/tsingson/gonum/blas/gonum.
 //
 // Most LAPACK functions are built on top the routines defined in the BLAS API,
 // and as such the computation time for many LAPACK functions is
@@ -25,4 +25,4 @@
 // alone. Future additions will be focused on supporting the gonum matrix
 // package (https://godoc.org/github.com/gonum/matrix/mat64), though pull requests
 // with implementations and tests for LAPACK function are encouraged.
-package gonum // import "gonum.org/v1/gonum/lapack/gonum"
+package gonum // import "github.com/tsingson/gonum/lapack/gonum"

@@ -7,7 +7,7 @@ package mathext
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/floats"
 )
 
 func TestNormalQuantile(t *testing.T) {

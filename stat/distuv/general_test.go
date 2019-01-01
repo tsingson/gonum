@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/diff/fd"
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/diff/fd"
+	"github.com/tsingson/gonum/floats"
 )
 
 type univariateProbPoint struct {

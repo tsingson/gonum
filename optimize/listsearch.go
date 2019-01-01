@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/tsingson/gonum/mat"
 )
 
 // ListSearch finds the optimum location from a specified list of possible

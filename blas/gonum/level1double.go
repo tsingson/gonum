@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/internal/asm/f64"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/internal/asm/f64"
 )
 
 var _ blas.Float64Level1 = Implementation{}

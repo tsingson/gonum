@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/internal/asm/c128"
+	"github.com/tsingson/gonum/internal/asm/c128"
 )
 
 // Dzasum returns the sum of the absolute values of the elements of x

@@ -5,8 +5,8 @@
 package distuv
 
 import (
+	"github.com/tsingson/gonum/floats"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/floats"
 	"math"
 	"testing"
 )

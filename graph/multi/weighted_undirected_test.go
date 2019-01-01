@@ -7,10 +7,10 @@ package multi_test
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/testgraph"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/internal/set"
+	"github.com/tsingson/gonum/graph/multi"
+	"github.com/tsingson/gonum/graph/testgraph"
 )
 
 func weightedUndirectedBuilder(nodes []graph.Node, edges []graph.WeightedLine, self, absent float64) (g graph.Graph, n []graph.Node, e []graph.Edge, s, a float64, ok bool) {

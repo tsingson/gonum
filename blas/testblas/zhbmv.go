@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
+	"github.com/tsingson/gonum/blas"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/blas"
 )
 
 type Zhbmver interface {

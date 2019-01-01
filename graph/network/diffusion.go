@@ -7,8 +7,8 @@ package network
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/mat"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/mat"
 )
 
 // Diffuse performs a heat diffusion across nodes of the undirected

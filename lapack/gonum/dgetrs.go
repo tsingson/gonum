@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/blas/blas64"
 )
 
 // Dgetrs solves a system of equations using an LU factorization.

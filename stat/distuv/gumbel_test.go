@@ -9,7 +9,7 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/floats"
 
 	"golang.org/x/exp/rand"
 )

@@ -11,4 +11,4 @@
 //
 // DOT grammar: http://www.graphviz.org/doc/info/lang.html
 //
-package dot // import "gonum.org/v1/gonum/graph/encoding/dot"
+package dot // import "github.com/tsingson/gonum/graph/encoding/dot"

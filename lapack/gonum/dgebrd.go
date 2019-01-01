@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/blas/blas64"
 )
 
 // Dgebrd reduces a general m×n matrix A to upper or lower bidiagonal form B by

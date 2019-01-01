@@ -7,9 +7,9 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/blas/blas64"
+	"github.com/tsingson/gonum/lapack"
 )
 
 // Dsyev computes all eigenvalues and, optionally, the eigenvectors of a real

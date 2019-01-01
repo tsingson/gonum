@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/tsingson/gonum/blas/blas64"
 )
 
 func TestNewDiagDense(t *testing.T) {

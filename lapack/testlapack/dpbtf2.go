@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/tsingson/gonum/blas"
 )
 
 type Dpbtf2er interface {

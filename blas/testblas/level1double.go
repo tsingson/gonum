@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/floats"
 
 	"math"
 	"testing"

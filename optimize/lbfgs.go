@@ -5,7 +5,7 @@
 package optimize
 
 import (
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/floats"
 )
 
 // LBFGS implements the limited-memory BFGS method for gradient-based

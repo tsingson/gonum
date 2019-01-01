@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"testing"
 
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/encoding/dot"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/tsingson/gonum/graph/encoding"
+	"github.com/tsingson/gonum/graph/encoding/dot"
+	"github.com/tsingson/gonum/graph/simple"
 )
 
 var cliqueGraphTests = []struct {

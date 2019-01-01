@@ -5,7 +5,7 @@
 // Package uid implements unique ID provision for graphs.
 package uid
 
-import "gonum.org/v1/gonum/graph/internal/set"
+import "github.com/tsingson/gonum/graph/internal/set"
 
 // Max is the maximum value of int64.
 const Max = int64(^uint64(0) >> 1)

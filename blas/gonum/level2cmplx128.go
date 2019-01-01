@@ -7,8 +7,8 @@ package gonum
 import (
 	"math/cmplx"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/internal/asm/c128"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/internal/asm/c128"
 )
 
 // Zgbmv performs one of the matrix-vector operations

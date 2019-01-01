@@ -7,7 +7,7 @@ package gonum
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/blas/testblas"
+	"github.com/tsingson/gonum/blas/testblas"
 )
 
 func BenchmarkDgemvSmSmNoTransInc1(b *testing.B) {

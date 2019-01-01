@@ -10,10 +10,10 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/graphs/gen"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/graphs/gen"
+	"github.com/tsingson/gonum/graph/internal/ordered"
+	"github.com/tsingson/gonum/graph/simple"
 )
 
 var (

@@ -9,9 +9,9 @@ import (
 	"math"
 	"math/cmplx"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/fourier"
-	"gonum.org/v1/gonum/mat"
+	"github.com/tsingson/gonum/floats"
+	"github.com/tsingson/gonum/fourier"
+	"github.com/tsingson/gonum/mat"
 )
 
 func ExampleFFT_Coefficients() {

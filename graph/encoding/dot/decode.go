@@ -7,11 +7,11 @@ package dot
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/formats/dot"
-	"gonum.org/v1/gonum/graph/formats/dot/ast"
-	"gonum.org/v1/gonum/graph/internal/set"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/encoding"
+	"github.com/tsingson/gonum/graph/formats/dot"
+	"github.com/tsingson/gonum/graph/formats/dot/ast"
+	"github.com/tsingson/gonum/graph/internal/set"
 )
 
 // AttributeSetters is implemented by graph values that can set global

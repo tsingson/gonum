@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/tsingson/gonum/blas"
 )
 
 func DtrmvBenchmark(b *testing.B, dtrmv Dtrmver, n, lda, incX int, ul blas.Uplo, tA blas.Transpose, d blas.Diag) {

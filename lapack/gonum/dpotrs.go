@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/blas/blas64"
 )
 
 // Dpotrs solves a system of n linear equations A*X = B where A is an n×n

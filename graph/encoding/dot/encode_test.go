@@ -7,10 +7,10 @@ package dot
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/encoding"
+	"github.com/tsingson/gonum/graph/multi"
+	"github.com/tsingson/gonum/graph/simple"
 )
 
 // intset is an integer set.

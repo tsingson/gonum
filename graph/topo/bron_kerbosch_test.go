@@ -9,8 +9,8 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/tsingson/gonum/graph/internal/ordered"
+	"github.com/tsingson/gonum/graph/simple"
 )
 
 var vOrderTests = []struct {

@@ -7,7 +7,7 @@ package stat
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/floats"
 )
 
 // Test cases where calculated manually.

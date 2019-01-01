@@ -4,7 +4,7 @@
 
 package fourier
 
-import "gonum.org/v1/gonum/fourier/internal/fftpack"
+import "github.com/tsingson/gonum/fourier/internal/fftpack"
 
 // QuarterWaveFFT implements Fast Fourier Transform for quarter wave data.
 type QuarterWaveFFT struct {

@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/blas/blas64"
+	"github.com/tsingson/gonum/lapack"
 )
 
 type Dggsvp3er interface {

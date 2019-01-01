@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/gonum/optimize"
-	"gonum.org/v1/gonum/optimize/functions"
+	"github.com/tsingson/gonum/optimize"
+	"github.com/tsingson/gonum/optimize/functions"
 )
 
 func ExampleMinimize() {

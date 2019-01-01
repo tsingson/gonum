@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/simple"
 )
 
 func init() {

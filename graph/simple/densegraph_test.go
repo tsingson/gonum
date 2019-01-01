@@ -9,11 +9,11 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/testgraph"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/internal/ordered"
+	"github.com/tsingson/gonum/graph/internal/set"
+	"github.com/tsingson/gonum/graph/simple"
+	"github.com/tsingson/gonum/graph/testgraph"
 )
 
 func isZeroContiguousSet(nodes []graph.Node) bool {

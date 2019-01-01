@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/tsingson/gonum/floats"
 )
 
 type Dgeqrfer interface {

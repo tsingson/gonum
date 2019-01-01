@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"sync"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/internal/asm/f64"
+	"github.com/tsingson/gonum/blas"
+	"github.com/tsingson/gonum/internal/asm/f64"
 )
 
 // Dgemm performs one of the matrix-matrix operations

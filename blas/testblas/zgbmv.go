@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/tsingson/gonum/blas"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/blas"
 )
 
 type Zgbmver interface {

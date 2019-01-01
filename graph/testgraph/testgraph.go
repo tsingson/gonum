@@ -4,7 +4,7 @@
 
 // Package testgraph provides a set of testing helper functions
 // that test gonum graph interface implementations.
-package testgraph // import "gonum.org/v1/gonum/graph/testgraph"
+package testgraph // import "github.com/tsingson/gonum/graph/testgraph"
 
 import (
 	"fmt"
@@ -13,10 +13,10 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/mat"
+	"github.com/tsingson/gonum/graph"
+	"github.com/tsingson/gonum/graph/internal/ordered"
+	"github.com/tsingson/gonum/graph/internal/set"
+	"github.com/tsingson/gonum/mat"
 )
 
 // BUG(kortschak): Edge equality is tested in part with reflect.DeepEqual and

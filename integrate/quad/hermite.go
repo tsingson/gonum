@@ -7,8 +7,8 @@ package quad
 import (
 	"math"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/mathext"
+	"github.com/tsingson/gonum/floats"
+	"github.com/tsingson/gonum/mathext"
 )
 
 // Hermite generates sample locations and weights for performing quadrature with

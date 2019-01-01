@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/tsingson/gonum/mat"
 )
 
 // BFGS implements the Broyden–Fletcher–Goldfarb–Shanno optimization method. It
