@@ -1,4 +1,17 @@
+
+
 # Gonum [![Build Status](https://www.travis-ci.org/gonum/gonum.svg?branch=master)](https://www.travis-ci.org/gonum/gonum/branches) [![Coverage Status](https://coveralls.io/repos/gonum/gonum/badge.svg?branch=master&service=github)](https://coveralls.io/github/gonum/gonum?branch=master) [![GoDoc](https://godoc.org/gonum.org/v1/gonum?status.svg)](https://godoc.org/gonum.org/v1/gonum) [![Go Report Card](https://goreportcard.com/badge/github.com/gonum/gonum)](https://goreportcard.com/report/github.com/gonum/gonum)
+
+
+#  why fork this ( by tsingson ) 
+
+go get -u gonum.org/v1/gonum/...  fail
+so fork for my testting project only 
+use this
+```
+go get -u github.com/tsingson/gonum/...
+```
+
 
 ## Installation
 
